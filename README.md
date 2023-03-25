@@ -8,9 +8,9 @@ const aboutMe = {
   fullName: "Nagendra Dhanakeerthi",
   pronouns: "He/Him",
   code: ["JavaScript", "Python", "Java", "C#", "Ruby", "Go", "Swift"],
-  tools: ["Node", "React", "Angular", "Vue", "Django", "Flask", "Docker", "Kubernetes", "AWS", "Azure", "GCP"],
-  architecture: ["Microservices", "Event-driven", "Serverless", "MVC", "SPA", "Progressive Web Apps"],
-  challenge: "I'm currently working on mastering cloud-native architectures and developing scalable applications."
+  tools: ["Node", "React", "Angular","Docker", "Kubernetes", "AWS", "Azure", "GCP"],
+  architecture: ["Microservices", "Event-driven", "Serverless", "MVC", "SPA"],
+  challenge: "I'm currently working on mastering cloud-native architectures & developing scalable applications."
 }
 ```
 
