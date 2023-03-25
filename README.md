@@ -1,6 +1,7 @@
 # Hi there, I'm Nag! 👋
-I'm a passionate software developer / engineer / data scientist (choose your role) from [Your Country]. I love solving complex problems, learning new technologies, and building scalable applications. When I'm not coding, I enjoy [your hobbies or interests].
+I'm a passionate developer and technology enthusiast, always looking for new ways to improve and expand my skill set. I love working on challenging projects, exploring new technologies, and collaborating with others in the tech community. Let's connect and build something amazing together!
 
+![Profile Views](https://komarev.com/ghpvc/?username=nagstler&color=blueviolet)
 
 ```javascript
 const aboutMe = {
@@ -13,27 +14,9 @@ const aboutMe = {
 }
 ```
 
-- 🔭 I’m currently working on [Project Name](https://github.com/your-github-username/project-name)
-- 🌱 I’m currently learning [Topic or Technology]
-- 👯 I’m looking to collaborate on [Open Source/Project]
-- 🤔 I’m looking for help with [Topic or Technology]
-- 💬 Ask me about anything related to [Your areas of expertise] 
-- 📫 How to reach me: [your@email.com](mailto:your@email.com)
-- 😄 Fun fact: [A fun fact about yourself]
-
-## 🌱 I'm currently learning ...
-
-* [New technology or tool you're learning, e.g. TypeScript]
-* [Another technology, e.g. GraphQL]
-
-## 📚 Latest Blog Posts
-
-* [Title of your latest blog post](Link to the blog post)
-* [Title of another blog post](Link to the blog post)
 
 ## 📫 How to reach me
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
 * LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-username/)
 * Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
