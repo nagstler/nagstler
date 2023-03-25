@@ -5,7 +5,7 @@ I'm a passionate developer and technology enthusiast, always looking for new way
 
 ```javascript
 const aboutMe = {
-  fullName: "Your Full Name",
+  fullName: "Nagendra Dhanakeerthi",
   pronouns: "He/Him",
   code: ["JavaScript", "Python", "Java", "C#", "Ruby", "Go", "Swift"],
   tools: ["Node", "React", "Angular", "Vue", "Django", "Flask", "Docker", "Kubernetes", "AWS", "Azure", "GCP"],
@@ -14,11 +14,11 @@ const aboutMe = {
 }
 ```
 
-
 ## 📫 How to reach me
 
-* LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-username/)
-* Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nagstler/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/nagstler)
+
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagstler&show_icons=true&theme=radical) 
 
