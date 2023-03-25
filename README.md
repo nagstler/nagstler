@@ -1,4 +1,5 @@
 # Hi there, I'm Nag! 👋
+I'm a passionate software developer / engineer / data scientist (choose your role) from [Your Country]. I love solving complex problems, learning new technologies, and building scalable applications. When I'm not coding, I enjoy [your hobbies or interests].
 
 
 ```javascript
