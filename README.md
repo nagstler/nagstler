@@ -13,12 +13,3 @@ const aboutMe = {
   challenge: "I'm currently working on mastering cloud-native architectures & developing scalable applications."
 }
 ```
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagstler&show_icons=true&theme=radical) 
-
-Feel free to reach out if you want to chat about tech, collaborate on a project, or just say hi! 😄
-
-## 📫 How to reach me
-
-[![LinkedIn](https://img.icons8.com/color/42/000000/linkedin.png)](https://www.linkedin.com/in/nagstler/)
-[![Twitter](https://img.icons8.com/color/42/000000/twitter.png)](https://twitter.com/nagstler)
